@@ -3,9 +3,9 @@
     "name": "test2",
     "slug": "test2",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"],
+    "platforms": ["ios", "android", "web"]
+    
   },
   "name": "test2"
 }
