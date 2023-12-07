@@ -16,8 +16,7 @@ const ResultPage = ({ route, navigation }) => {
         <Logo />
         <Header>Result Page</Header>
         <Paragraph>
-          Your amazing app starts here. Open your favorite code editor and start
-          editing this project.
+          Your amazing result is here. 
         </Paragraph>
         <View style={styles.containerDetails}>
             <Text style={styles.text}>
