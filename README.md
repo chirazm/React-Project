@@ -20,6 +20,7 @@ This repo is proudly sponsored by:
 
 ```js
 npm install
+```
 
 
 3. Run project on iOS / Android.
@@ -28,7 +29,7 @@ npm install
  npm run web
 ```
 
-## How to use?
+## Preview
 
 ![HomeScreen](https://github.com/chirazm/React-Project/assets/59312759/eaecd2fb-768f-4f89-9db6-c83c2568ddbd)
 ![FormScreen](https://github.com/chirazm/React-Project/assets/59312759/6e7ad4db-3185-49f2-9098-c9b0218daa50)
