@@ -1,8 +1,12 @@
 {
+  "homepage": "https://chirazm.github.io/React-Project",
   "name": "test",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "expo build",
     "start": "expo start --dev-client",
     "android": "expo run:android",
     "ios": "expo run:ios",
@@ -28,7 +32,8 @@
     "styled-components": "^6.1.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "gh-pages": "^6.1.0"
   },
   "private": true
 }
