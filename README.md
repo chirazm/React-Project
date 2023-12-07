@@ -1,13 +1,11 @@
-# React Native Login Template
+# React Native Expo Project
 
-This repo is proudly sponsored by:
+This project is a simple React Native Expo application with three pages: Home, Form, and Result. It uses React Navigation for page navigation and includes basic form validation.
 
-<a href="https://reactnativemarket.com/" rel="nofollow" target="_blank">
-  <img src="https://raw.githubusercontent.com/venits/react-native-market/master/assets/banner.png" width="280"><br />
-  React Native Templates & Starter Kits and Apps for easier start.
-</a>
+## Getting Started
 
-## Demo
+### Prerequisites
+- Node.js: Make sure Node.js is installed on your machine. You can download it from [nodejs.org](https://nodejs.org/).
 
 ### Installation
 
