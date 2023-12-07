@@ -7,6 +7,8 @@ This project is a simple React Native Expo application with three pages: Home, F
 ### Prerequisites
 - Node.js: Make sure Node.js is installed on your machine. You can download it from [nodejs.org](https://nodejs.org/).
 
+## Demo 
+
 ### Installation
 
 
