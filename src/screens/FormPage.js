@@ -33,7 +33,7 @@ const FormPage = ({ navigation }) => {
     <Background>
       <BackButton goBack={navigation.goBack} />
       <Logo />
-      <Header>Welcome back.</Header>
+      <Header>Please Fill Out The Form</Header>
       <TextInput
         label="Name"
         returnKeyType="next"
