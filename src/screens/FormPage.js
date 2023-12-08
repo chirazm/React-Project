@@ -25,7 +25,6 @@ const FormPage = ({ navigation }) => {
         setAge({ ...age, error: ageError });
         return;
       } else {
-        // Navigate to ResultPage with submitted data
         navigation.navigate('Result', { name: name.value, email: email.value, age: age.value });
       }
     };
