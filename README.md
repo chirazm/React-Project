@@ -11,10 +11,10 @@ This project is a simple React Native Expo application with three pages: Home, F
 
 https://github.com/chirazm/React-Project/assets/59312759/039cc164-476c-4fe4-bf25-301446a2d4ab
 
-### Installation
+## Installation
 
 
-## How to use?
+### How to use?
 
 1. Download or clone this repo.
 
@@ -25,7 +25,7 @@ npm install
 ```
 
 
-3. Run project on iOS / Android.
+3. Run project on Web.
 
 ```js
  npm run web
